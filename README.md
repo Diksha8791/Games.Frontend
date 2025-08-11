@@ -1,1 +1,1 @@
-This is game store frontend application using React js
+This is a game store frontend application using React js
